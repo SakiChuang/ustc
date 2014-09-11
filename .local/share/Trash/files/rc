@@ -1,0 +1,11 @@
+set   nocompatible
+set   columns=100
+set   background=evening
+set   tabstop=4
+set   wrapmargin=100
+set   nobk
+set   cindent
+set   shiftwidth=4
+syntax   on
+set   ruler
+set   noexpandtab

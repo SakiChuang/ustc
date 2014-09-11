@@ -1,0 +1,102 @@
+libGL error: failed to authenticate magic 2
+libGL error: failed to load driver: vboxvideo
+gnome-session[1554]: WARNING: Session 'ubuntu' runnable check failed: 以代码 1 退出
+
+(gnome-settings-daemon:1641): power-plugin-WARNING **: gnome-session is not available
+
+(gnome-settings-daemon:1641): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+unity-2d-shell: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core pointer 
+unity-2d-shell: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core keyboard 
+unity-2d-panel: [DEBUG] Scanning panel plugin directory "/usr/lib/unity-2d/plugins/panel" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-appindicator.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-appname.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-indicator.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-legacytray.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-separator.so" 
+unity-2d-panel: [DEBUG] Configured plugins list is: ("appname", "!legacytray", "indicator") 
+unity-2d-shell: [DEBUG] static void WindowImageProvider::activateComposite(): Server supports the Composite extension (ver 0.4)
+unity-2d-panel: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core pointer 
+unity-2d-panel: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core keyboard 
+unity-2d-panel: [WARNING] X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 18 (X_ChangeProperty)
+  Resource id:  0x0
+XInput version 2.3 found
+unity-2d-panel: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Alt+F10" 
+unity-2d-panel: [WARNING] X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 20 (X_GetProperty)
+  Resource id:  0x3400004
+unity-2d-shell: [WARNING] libindicator: Desktop file '/usr/share/applications/libreoffice-writer.desktop' is using a deprecated format for its actions that will be dropped soon.
+unity-2d-shell: [WARNING] libindicator: Desktop file '/usr/share/applications/libreoffice-calc.desktop' is using a deprecated format for its actions that will be dropped soon.
+unity-2d-panel: [WARNING] X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 20 (X_GetProperty)
+  Resource id:  0x3400007
+unity-2d-shell: [WARNING] libindicator: Desktop file '/usr/share/applications/libreoffice-impress.desktop' is using a deprecated format for its actions that will be dropped soon.
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+S" 
+** Message: applet now removed from the notification area
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+T" 
+** Message: using fallback from indicator to GtkStatusIcon
+** Message: moving back from GtkStatusIcon to indicator
+unity-2d-shell: [WARNING] Object::connect: No such signal Lenses::roleNamesChanged(QHash<int,QByteArray>) in /build/buildd/unity-2d-5.14.0/libunity-2d-private/src/qsortfilterproxymodelqml.cpp:65
+unity-2d-shell: [WARNING] void QSortFilterProxyModelQML::setSourceModelQObject(QObject*): received a sourceModel that does not notify of changes of its roleNames 
+unity-2d-shell: [WARNING] file:///usr/share/unity-2d/shell/hud/Hud.qml:145: TypeError: Result of expression 'shellManager.hudShell' [null] is not an object.
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Alt+F1" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Alt+F2" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+0" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+0" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+1" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+1" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+2" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+2" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+3" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+3" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+4" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+4" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+5" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+5" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+6" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+6" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+7" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+7" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+8" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+8" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+9" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+9" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://nautilus.desktop" 
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://nautilus.desktop" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+A" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+F" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+M" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+V" 
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://empathy.desktop" 
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://empathy.desktop" 
+窗口管理器警告： Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2000002 (unity-2d-s)
+窗口管理器警告： meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+** (zeitgeist-datahub:2093): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+WARNING:root:nothing unsupported running 0 (0)
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.application 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "在路径 org.ayatana.bamf.view 的对象上没有 /org/ayatana/bamf/application1732802192 接口") 
